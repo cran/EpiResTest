@@ -1,0 +1,16 @@
+0176be4ebf1f54d424da18feef03e5d2 *DESCRIPTION
+0080d840ed9ba2b8359f1855e71f4466 *NAMESPACE
+3ea791c7a2fdabf0e39870f5570d9b17 *R/RcppExports.R
+a70312810aae41f5c1665006c161007b *R/data.R
+3d0f1cd3a42dcb7ec99213df3593c883 *data/epi.rda
+b4e08f8a6011cf8477d9332248642fe6 *inst/unitTests/report.html
+65c4a00a0f68f8455e5b427d306d8549 *inst/unitTests/report.txt
+dcef837d66e509ab8c379f52ecdcc505 *inst/unitTests/reportSummary.txt
+56da7779a0913d0a6e55ccb91535a987 *inst/unitTests/runit.EpiResTest.R
+39eb587f271d1e8be5fb35d904a0afce *man/ILR.Rd
+d0777893a292c49f0d38edb28f30750f *man/ILR_path.Rd
+36f77ad33fa3eb105e40506234b58ac6 *man/LTR.Rd
+eab937ba44de5ec7509678e5da5cd5af *man/epi.Rd
+e9b2d7e8cbebed6422f34d9dcd87d22e *src/EpiResTest.cpp
+58dcc5499e97b6970d72de315875c732 *src/RcppExports.cpp
+72d611af37506ce752ec6a178aab1d5a *tests/doRUnit.R

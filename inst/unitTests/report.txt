@@ -1,0 +1,24 @@
+RUNIT TEST PROTOCOL -- Sat Jul 19 14:54:37 2014 
+*********************************************** 
+Number of test functions: 3 
+Number of errors: 0 
+Number of failures: 0 
+
+ 
+1 Test Suite : 
+EpiResTest unit testing - 3 test functions, 0 errors, 0 failures
+
+
+
+Details 
+*************************** 
+Test Suite: EpiResTest unit testing 
+Test function regexp: ^test.+ 
+Test file regexp: ^runit.+\.[rR]$ 
+Involved directory: 
+/home/sl451/Dropbox/EpiResTest/tests/../inst/unitTests 
+--------------------------- 
+Test file: /home/sl451/Dropbox/EpiResTest/tests/../inst/unitTests/runit.EpiResTest.R 
+test.ILR: (6 checks) ... OK (0.8 seconds)
+test.ILRpath: (6 checks) ... OK (0.73 seconds)
+test.LTR: (6 checks) ... OK (0.03 seconds)

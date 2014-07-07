@@ -1,0 +1,9 @@
+RUNIT TEST PROTOCOL -- Sat Jul 19 14:54:37 2014 
+*********************************************** 
+Number of test functions: 3 
+Number of errors: 0 
+Number of failures: 0 
+
+ 
+1 Test Suite : 
+EpiResTest unit testing - 3 test functions, 0 errors, 0 failures
